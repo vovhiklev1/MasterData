@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/angular-seed/app/app.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/angular-seed/app/app.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/angular-seed/app/controllers/appCtrl.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/angular-seed/app/factories/formDataFactory.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/angular-seed/app/view1/view1.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/angular-seed/app/view1/view1.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/angular-seed/app/view2/view2.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/angular-seed/app/view2/view2.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/angular-seed/app/view3/view3.js" charset="UTF-8" />
+  </component>
+</project>

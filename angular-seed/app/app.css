@@ -1,0 +1,100 @@
+/*
+
+
+.menu {
+  list-style: none;
+  border-bottom: 0.1em solid black;
+  margin-bottom: 2em;
+  padding: 0 0 0.5em;
+}
+
+.menu:before {
+  content: "[";
+}
+
+.menu:after {
+  content: "]";
+}
+
+.menu > li {
+  display: inline;
+}
+
+.menu > li:before {
+  content: "|";
+  padding-right: 0.3em;
+}
+
+.menu > li:nth-child(1):before {
+  content: "";
+  padding: 0;
+}
+
+
+.form-horizontal {
+  width:500px;
+}
+
+.datetime-picker-dropdown {
+
+}
+
+.datetime-picker-dropdown > li.date-picker-menu div > table .btn-default {
+  border: 0;
+}
+
+.datetime-picker-dropdown > li.time-picker-menu div > table {
+
+}
+*/
+
+
+.header-message {
+    padding: 4% 0;
+}
+
+.header-message__icon {
+    padding: 0 1%;
+    width: 3%;
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+    text-align: center;
+}
+.glyphicon--inverse{
+    color: #9f9f9f;
+}
+
+.header-message__text {
+    padding: 0 1%;
+    display: inline-block;
+    vertical-align: middle;
+    width: 90%;
+}
+.header__text{
+    margin-bottom: 0;
+}
+
+.genenal-datetime__input
+{
+    display: inline-block;
+    width: auto;
+    vertical-align: middle;
+}
+
+.form-caption{
+white-space: normal;
+}
+.input-container{
+
+}
+
+
+.well-form__header{
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 19px;
+}
+.panel-footer--color{
+    background: none;
+}
