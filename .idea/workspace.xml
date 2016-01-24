@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f6e23a6-4224-40c6-9ff0-094046c8c78c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/~$vaScript Developer.docx" afterPath="$PROJECT_DIR$/~$vaScript Developer.docx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-seed/app/app.js" afterPath="$PROJECT_DIR$/angular-seed/app/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-seed/app/controllers/appCtrl.js" afterPath="$PROJECT_DIR$/angular-seed/app/controllers/appCtrl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-seed/app/index.html" afterPath="$PROJECT_DIR$/angular-seed/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-seed/app/view3/view3.html" afterPath="$PROJECT_DIR$/angular-seed/app/view3/view3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/angular-seed/app/view3/view3.js" afterPath="$PROJECT_DIR$/angular-seed/app/view3/view3.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MasterData.iws" />
@@ -26,7 +32,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/angular-seed/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.230769">
+            <state vertical-scroll-proportion="0.0">
               <caret line="43" column="61" selection-start-line="43" selection-start-column="61" selection-end-line="43" selection-end-column="61" />
               <folding>
                 <marker date="1453582712231" expanded="true" signature="2552:2705" placeholder="..." />
@@ -46,33 +52,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="formDataFactory.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/angular-seed/app/factories/formDataFactory.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
-              <folding>
-                <element signature="e#181#667#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="appCtrl.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/angular-seed/app/controllers/appCtrl.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.862069">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/angular-seed/app/app.js">
-          <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="32" column="2" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -81,18 +65,28 @@
       <file leaf-file-name="view1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/angular-seed/app/view1/view1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.1923075">
-              <caret line="140" column="73" selection-start-line="140" selection-start-column="73" selection-end-line="140" selection-end-column="73" />
+            <state vertical-scroll-proportion="16.73077">
+              <caret line="101" column="33" selection-start-line="101" selection-start-column="33" selection-end-line="101" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="view1.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angular-seed/app/app.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="145" column="1" selection-start-line="145" selection-start-column="1" selection-end-line="145" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view1.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/angular-seed/app/view1/view1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.72077924">
-              <caret line="40" column="55" selection-start-line="40" selection-start-column="55" selection-end-line="40" selection-end-column="55" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -101,33 +95,51 @@
       <file leaf-file-name="settingsForm.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/angular-seed/app/settingsForm.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.730769">
-              <caret line="43" column="15" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
+            <state vertical-scroll-proportion="-6.423077">
+              <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
               <folding>
-                <element signature="e#324#529#0" expanded="false" />
-                <element signature="e#552#755#0" expanded="false" />
-                <element signature="e#778#985#0" expanded="false" />
+                <element signature="e#338#385#0" expanded="false" />
+                <element signature="e#399#448#0" expanded="false" />
+                <element signature="e#462#517#0" expanded="false" />
+                <element signature="e#689#742#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="view2.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="view2.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/angular-seed/app/view2/view2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.61538464">
+              <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="view3.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/angular-seed/app/view3/view3.js">
+      <file leaf-file-name="view2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angular-seed/app/view2/view2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.7090907">
+              <caret line="137" column="103" selection-start-line="137" selection-start-column="103" selection-end-line="137" selection-end-column="103" />
+              <folding>
+                <element signature="n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="false" />
+                <element signature="e#2514#4737#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="formDataFactory.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angular-seed/app/factories/formDataFactory.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-              <folding />
+              <caret line="56" column="35" selection-start-line="56" selection-start-column="35" selection-end-line="56" selection-end-column="35" />
+              <folding>
+                <element signature="e#181#687#0" expanded="false" />
+                <element signature="e#751#1362#0" expanded="false" />
+                <element signature="e#839#1352#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -143,20 +155,20 @@
       <list>
         <option value="$PROJECT_DIR$/angular-seed/app/filters/dateFilter.js" />
         <option value="$PROJECT_DIR$/angular-seed/app/app.js" />
-        <option value="$PROJECT_DIR$/angular-seed/app/view2/view2.html" />
         <option value="$PROJECT_DIR$/angular-seed/app/view3/view3.html" />
-        <option value="$PROJECT_DIR$/angular-seed/app/app.css" />
         <option value="$PROJECT_DIR$/angular-seed/app/controllers/tabCtrl.js" />
         <option value="$PROJECT_DIR$/angular-seed/app/controllers/appCtrl.js" />
         <option value="$PROJECT_DIR$/angular-seed/app/index.html" />
         <option value="$PROJECT_DIR$/angular-seed/app/directives/tabDirective.js" />
-        <option value="$PROJECT_DIR$/angular-seed/app/view2/view2.js" />
         <option value="$PROJECT_DIR$/angular-seed/app/view3/view3.js" />
         <option value="$PROJECT_DIR$/angular-seed/app/settingsForm" />
-        <option value="$PROJECT_DIR$/angular-seed/app/factories/formDataFactory.js" />
-        <option value="$PROJECT_DIR$/angular-seed/app/view1/view1.html" />
         <option value="$PROJECT_DIR$/angular-seed/app/settingsForm.json" />
+        <option value="$PROJECT_DIR$/angular-seed/app/view1/view1.html" />
+        <option value="$PROJECT_DIR$/angular-seed/app/app.css" />
         <option value="$PROJECT_DIR$/angular-seed/app/view1/view1.js" />
+        <option value="$PROJECT_DIR$/angular-seed/app/factories/formDataFactory.js" />
+        <option value="$PROJECT_DIR$/angular-seed/app/view2/view2.html" />
+        <option value="$PROJECT_DIR$/angular-seed/app/view2/view2.js" />
       </list>
     </option>
   </component>
@@ -196,8 +208,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -266,12 +276,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="view3" />
+              <option name="myItemId" value="view2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -358,17 +370,22 @@
       <option name="project" value="LOCAL" />
       <updated>1453566960233</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="load form 20%">
+      <created>1453593998482</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1453593998482</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17698413" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17936508" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43491578" sideWeight="0.5031746" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -376,8 +393,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24961714" sideWeight="0.4968254" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4006116" sideWeight="0.4968254" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -400,13 +418,108 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="bootstrap 30%" />
     <MESSAGE value="bootstrap view 3 80%" />
-    <option name="LAST_COMMIT_MESSAGE" value="bootstrap view 3 80%" />
+    <MESSAGE value="load form 20%" />
+    <option name="LAST_COMMIT_MESSAGE" value="load form 20%" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/angular-seed/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="61" selection-start-line="43" selection-start-column="61" selection-end-line="43" selection-end-column="61" />
+          <folding>
+            <marker date="1453582712231" expanded="true" signature="2552:2705" placeholder="..." />
+            <marker date="1453582712231" expanded="true" signature="2645:2673" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-seed/app/directives/tabDirective.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-seed/app/factories/formDataFactory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+          <folding>
+            <element signature="e#181#687#0" expanded="false" />
+            <element signature="e#751#1362#0" expanded="false" />
+            <element signature="e#839#1352#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-seed/app/controllers/appCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-seed/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="2" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-seed/app/view1/view1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="140" column="73" selection-start-line="140" selection-start-column="73" selection-end-line="140" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-seed/app/view1/view1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-seed/app/settingsForm.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="15" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
+          <folding>
+            <element signature="e#338#385#0" expanded="false" />
+            <element signature="e#399#448#0" expanded="false" />
+            <element signature="e#462#517#0" expanded="false" />
+            <element signature="e#689#742#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-seed/app/view2/view2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-seed/app/view3/view3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/angular-seed/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -422,7 +535,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-          <folding />
+          <folding>
+            <element signature="e#181#687#0" expanded="false" />
+            <element signature="e#751#1362#0" expanded="false" />
+            <element signature="e#839#1352#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -470,7 +587,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="false" />
+            <element signature="e#2514#4737#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -529,7 +649,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="false" />
+            <element signature="e#2514#4737#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -537,9 +660,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#811#1850#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -577,9 +697,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -587,7 +704,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.09166667">
           <caret line="37" column="15" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -619,15 +735,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.43220338">
           <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-seed/app/view2/view2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="30" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -635,9 +742,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
           <caret line="0" column="30" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
-          <folding>
-            <element signature="e#811#1850#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -649,19 +753,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/angular-seed/app/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-70.93104">
-          <caret line="121" column="1" selection-start-line="121" selection-start-column="1" selection-end-line="121" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/angular-seed/app/controllers/tabCtrl.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.41062802">
           <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -669,14 +764,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="32" column="2" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-seed/app/view2/view2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -691,19 +778,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/angular-seed/app/controllers/appCtrl.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.862069">
+        <state vertical-scroll-proportion="0.0">
           <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-seed/app/factories/formDataFactory.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
-          <folding>
-            <element signature="e#181#667#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -717,7 +794,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/angular-seed/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.230769">
+        <state vertical-scroll-proportion="0.0">
           <caret line="43" column="61" selection-start-line="43" selection-start-column="61" selection-end-line="43" selection-end-column="61" />
           <folding>
             <marker date="1453582712231" expanded="true" signature="2552:2705" placeholder="..." />
@@ -726,30 +803,70 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/angular-seed/app/settingsForm.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.423077">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+          <folding>
+            <element signature="e#338#385#0" expanded="false" />
+            <element signature="e#399#448#0" expanded="false" />
+            <element signature="e#462#517#0" expanded="false" />
+            <element signature="e#689#742#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/angular-seed/app/view1/view1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.1923075">
-          <caret line="140" column="73" selection-start-line="140" selection-start-column="73" selection-end-line="140" selection-end-column="73" />
+        <state vertical-scroll-proportion="16.73077">
+          <caret line="101" column="33" selection-start-line="101" selection-start-column="33" selection-end-line="101" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/angular-seed/app/settingsForm.json">
+    <entry file="file://$PROJECT_DIR$/angular-seed/app/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.730769">
-          <caret line="43" column="15" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
-          <folding>
-            <element signature="e#324#529#0" expanded="false" />
-            <element signature="e#552#755#0" expanded="false" />
-            <element signature="e#778#985#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="145" column="1" selection-start-line="145" selection-start-column="1" selection-end-line="145" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/angular-seed/app/view1/view1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.72077924">
-          <caret line="40" column="55" selection-start-line="40" selection-start-column="55" selection-end-line="40" selection-end-column="55" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-seed/app/factories/formDataFactory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="56" column="35" selection-start-line="56" selection-start-column="35" selection-end-line="56" selection-end-column="35" />
+          <folding>
+            <element signature="e#181#687#0" expanded="false" />
+            <element signature="e#751#1362#0" expanded="false" />
+            <element signature="e#839#1352#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-seed/app/view2/view2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.7090907">
+          <caret line="137" column="103" selection-start-line="137" selection-start-column="103" selection-end-line="137" selection-end-column="103" />
+          <folding>
+            <element signature="n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="false" />
+            <element signature="e#2514#4737#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-seed/app/view2/view2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61538464">
+          <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
           <folding />
         </state>
       </provider>
